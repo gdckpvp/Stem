@@ -1,0 +1,193 @@
+C:\DUY\CODING_SUB_FILES\DBMS\Project\Final\bin\Debug\Final.exe.config
+C:\DUY\CODING_SUB_FILES\DBMS\Project\Final\bin\Debug\Final.exe
+C:\DUY\CODING_SUB_FILES\DBMS\Project\Final\bin\Debug\Final.pdb
+C:\DUY\CODING_SUB_FILES\DBMS\Project\Final\obj\Debug\Final.Controls.DiscountListControl.resources
+C:\DUY\CODING_SUB_FILES\DBMS\Project\Final\obj\Debug\Final.Controls.GameBuyControl.resources
+C:\DUY\CODING_SUB_FILES\DBMS\Project\Final\obj\Debug\Final.Controls.GameDetail_Library.resources
+C:\DUY\CODING_SUB_FILES\DBMS\Project\Final\obj\Debug\Final.Controls.GameListControls.resources
+C:\DUY\CODING_SUB_FILES\DBMS\Project\Final\obj\Debug\Final.Controls.RedeemListControls.resources
+C:\DUY\CODING_SUB_FILES\DBMS\Project\Final\obj\Debug\Final.Forms.SaleUC.resources
+C:\DUY\CODING_SUB_FILES\DBMS\Project\Final\obj\Debug\Final.Controls.StudioListControls.resources
+C:\DUY\CODING_SUB_FILES\DBMS\Project\Final\obj\Debug\Final.Controls.TagListControls.resources
+C:\DUY\CODING_SUB_FILES\DBMS\Project\Final\obj\Debug\Final.Controls.UserInfo.resources
+C:\DUY\CODING_SUB_FILES\DBMS\Project\Final\obj\Debug\Final.Controls.UserListControls.resources
+C:\DUY\CODING_SUB_FILES\DBMS\Project\Final\obj\Debug\Final.Controls.UserProfileControl.resources
+C:\DUY\CODING_SUB_FILES\DBMS\Project\Final\obj\Debug\Final.Controls.User_select.resources
+C:\DUY\CODING_SUB_FILES\DBMS\Project\Final\obj\Debug\Final.Forms.AdminForm.resources
+C:\DUY\CODING_SUB_FILES\DBMS\Project\Final\obj\Debug\Final.Controls.GameInfo.resources
+C:\DUY\CODING_SUB_FILES\DBMS\Project\Final\obj\Debug\Final.Forms.createaccFM.resources
+C:\DUY\CODING_SUB_FILES\DBMS\Project\Final\obj\Debug\Final.Forms.loginFM.resources
+C:\DUY\CODING_SUB_FILES\DBMS\Project\Final\obj\Debug\Final.Forms.UserForm.resources
+C:\DUY\CODING_SUB_FILES\DBMS\Project\Final\obj\Debug\Final.Properties.Resources.resources
+C:\DUY\CODING_SUB_FILES\DBMS\Project\Final\obj\Debug\Final.csproj.GenerateResource.cache
+C:\DUY\CODING_SUB_FILES\DBMS\Project\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\DUY\CODING_SUB_FILES\DBMS\Project\Final\obj\Debug\Final.exe
+C:\DUY\CODING_SUB_FILES\DBMS\Project\Final\obj\Debug\Final.pdb
+C:\Users\ADMIN\Downloads\Final\bin\Debug\Final.exe.config
+C:\Users\ADMIN\Downloads\Final\bin\Debug\Final.exe
+C:\Users\ADMIN\Downloads\Final\bin\Debug\Final.pdb
+C:\Users\ADMIN\Downloads\Final\obj\Debug\Final.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Final\obj\Debug\Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Downloads\Final\obj\Debug\Final.Controls.DiscountListControl.resources
+C:\Users\ADMIN\Downloads\Final\obj\Debug\Final.Controls.GameBuyControl.resources
+C:\Users\ADMIN\Downloads\Final\obj\Debug\Final.Controls.GameDetail_Library.resources
+C:\Users\ADMIN\Downloads\Final\obj\Debug\Final.Controls.GameListControls.resources
+C:\Users\ADMIN\Downloads\Final\obj\Debug\Final.Controls.RedeemListControls.resources
+C:\Users\ADMIN\Downloads\Final\obj\Debug\Final.Forms.SaleUC.resources
+C:\Users\ADMIN\Downloads\Final\obj\Debug\Final.Controls.StudioListControls.resources
+C:\Users\ADMIN\Downloads\Final\obj\Debug\Final.Controls.TagListControls.resources
+C:\Users\ADMIN\Downloads\Final\obj\Debug\Final.Controls.UserInfo.resources
+C:\Users\ADMIN\Downloads\Final\obj\Debug\Final.Controls.UserListControls.resources
+C:\Users\ADMIN\Downloads\Final\obj\Debug\Final.Controls.UserProfileControl.resources
+C:\Users\ADMIN\Downloads\Final\obj\Debug\Final.Controls.User_select.resources
+C:\Users\ADMIN\Downloads\Final\obj\Debug\Final.Forms.AdminForm.resources
+C:\Users\ADMIN\Downloads\Final\obj\Debug\Final.Controls.GameInfo.resources
+C:\Users\ADMIN\Downloads\Final\obj\Debug\Final.Forms.createaccFM.resources
+C:\Users\ADMIN\Downloads\Final\obj\Debug\Final.Forms.loginFM.resources
+C:\Users\ADMIN\Downloads\Final\obj\Debug\Final.Forms.UserForm.resources
+C:\Users\ADMIN\Downloads\Final\obj\Debug\Final.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\Final\obj\Debug\Final.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Final\obj\Debug\Final.exe
+C:\Users\ADMIN\Downloads\Final\obj\Debug\Final.pdb
+C:\Users\ADMIN\Downloads\Final\obj\Debug\Final.Forms.Addfund.resources
+C:\DUY\CODING_SUB_FILES\DBMS\F\Final\bin\Debug\Final.exe.config
+C:\DUY\CODING_SUB_FILES\DBMS\F\Final\bin\Debug\Final.exe
+C:\DUY\CODING_SUB_FILES\DBMS\F\Final\bin\Debug\Final.pdb
+C:\DUY\CODING_SUB_FILES\DBMS\F\Final\obj\Debug\Final.Controls.DiscountListControl.resources
+C:\DUY\CODING_SUB_FILES\DBMS\F\Final\obj\Debug\Final.Controls.GameBuyControl.resources
+C:\DUY\CODING_SUB_FILES\DBMS\F\Final\obj\Debug\Final.Controls.GameDetail_Library.resources
+C:\DUY\CODING_SUB_FILES\DBMS\F\Final\obj\Debug\Final.Controls.GameListControls.resources
+C:\DUY\CODING_SUB_FILES\DBMS\F\Final\obj\Debug\Final.Controls.GameSmallDetailControl.resources
+C:\DUY\CODING_SUB_FILES\DBMS\F\Final\obj\Debug\Final.Controls.RedeemListControls.resources
+C:\DUY\CODING_SUB_FILES\DBMS\F\Final\obj\Debug\Final.Forms.SaleUC.resources
+C:\DUY\CODING_SUB_FILES\DBMS\F\Final\obj\Debug\Final.Controls.StudioListControls.resources
+C:\DUY\CODING_SUB_FILES\DBMS\F\Final\obj\Debug\Final.Controls.TagListControls.resources
+C:\DUY\CODING_SUB_FILES\DBMS\F\Final\obj\Debug\Final.Controls.UserInfo.resources
+C:\DUY\CODING_SUB_FILES\DBMS\F\Final\obj\Debug\Final.Controls.UserListControls.resources
+C:\DUY\CODING_SUB_FILES\DBMS\F\Final\obj\Debug\Final.Controls.UserProfileControl.resources
+C:\DUY\CODING_SUB_FILES\DBMS\F\Final\obj\Debug\Final.Controls.User_select.resources
+C:\DUY\CODING_SUB_FILES\DBMS\F\Final\obj\Debug\Final.Forms.Addfund.resources
+C:\DUY\CODING_SUB_FILES\DBMS\F\Final\obj\Debug\Final.Forms.AdminForm.resources
+C:\DUY\CODING_SUB_FILES\DBMS\F\Final\obj\Debug\Final.Controls.GameInfo.resources
+C:\DUY\CODING_SUB_FILES\DBMS\F\Final\obj\Debug\Final.Forms.createaccFM.resources
+C:\DUY\CODING_SUB_FILES\DBMS\F\Final\obj\Debug\Final.Forms.loginFM.resources
+C:\DUY\CODING_SUB_FILES\DBMS\F\Final\obj\Debug\Final.Forms.UserForm.resources
+C:\DUY\CODING_SUB_FILES\DBMS\F\Final\obj\Debug\Final.Properties.Resources.resources
+C:\DUY\CODING_SUB_FILES\DBMS\F\Final\obj\Debug\Final.csproj.GenerateResource.cache
+C:\DUY\CODING_SUB_FILES\DBMS\F\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\DUY\CODING_SUB_FILES\DBMS\F\Final\obj\Debug\Final.exe
+C:\DUY\CODING_SUB_FILES\DBMS\F\Final\obj\Debug\Final.pdb
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final (1)\Final\bin\Debug\Final.exe.config
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final (1)\Final\bin\Debug\Final.exe
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final (1)\Final\bin\Debug\Final.pdb
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final (1)\Final\obj\Debug\Final.Controls.DiscountListControl.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final (1)\Final\obj\Debug\Final.Controls.GameBuyControl.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final (1)\Final\obj\Debug\Final.Controls.GameDetail_Library.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final (1)\Final\obj\Debug\Final.Controls.GameListControls.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final (1)\Final\obj\Debug\Final.Controls.GameSmallDetailControl.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final (1)\Final\obj\Debug\Final.Controls.RedeemListControls.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final (1)\Final\obj\Debug\Final.Forms.SaleUC.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final (1)\Final\obj\Debug\Final.Controls.StudioListControls.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final (1)\Final\obj\Debug\Final.Controls.TagListControls.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final (1)\Final\obj\Debug\Final.Controls.UserInfo.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final (1)\Final\obj\Debug\Final.Controls.UserListControls.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final (1)\Final\obj\Debug\Final.Controls.UserProfileControl.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final (1)\Final\obj\Debug\Final.Controls.User_select.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final (1)\Final\obj\Debug\Final.Forms.Addfund.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final (1)\Final\obj\Debug\Final.Forms.AdminForm.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final (1)\Final\obj\Debug\Final.Controls.GameInfo.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final (1)\Final\obj\Debug\Final.Forms.createaccFM.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final (1)\Final\obj\Debug\Final.Forms.loginFM.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final (1)\Final\obj\Debug\Final.Forms.UserForm.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final (1)\Final\obj\Debug\Final.Properties.Resources.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final (1)\Final\obj\Debug\Final.csproj.GenerateResource.cache
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final (1)\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final (1)\Final\obj\Debug\Final.exe
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final (1)\Final\obj\Debug\Final.pdb
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final (1)\Final\obj\Debug\Final.csproj.AssemblyReference.cache
+C:\DUY\CODING_SUB_FILES\DBMS\New folder (2)\Final (1)\Final\bin\Debug\Final.exe.config
+C:\DUY\CODING_SUB_FILES\DBMS\New folder (2)\Final (1)\Final\bin\Debug\Final.exe
+C:\DUY\CODING_SUB_FILES\DBMS\New folder (2)\Final (1)\Final\bin\Debug\Final.pdb
+C:\DUY\CODING_SUB_FILES\DBMS\New folder (2)\Final (1)\Final\obj\Debug\Final.csproj.AssemblyReference.cache
+C:\DUY\CODING_SUB_FILES\DBMS\New folder (2)\Final (1)\Final\obj\Debug\Final.Controls.DiscountListControl.resources
+C:\DUY\CODING_SUB_FILES\DBMS\New folder (2)\Final (1)\Final\obj\Debug\Final.Controls.GameBuyControl.resources
+C:\DUY\CODING_SUB_FILES\DBMS\New folder (2)\Final (1)\Final\obj\Debug\Final.Controls.GameDetail_Library.resources
+C:\DUY\CODING_SUB_FILES\DBMS\New folder (2)\Final (1)\Final\obj\Debug\Final.Controls.GameListControls.resources
+C:\DUY\CODING_SUB_FILES\DBMS\New folder (2)\Final (1)\Final\obj\Debug\Final.Controls.GameSmallDetailControl.resources
+C:\DUY\CODING_SUB_FILES\DBMS\New folder (2)\Final (1)\Final\obj\Debug\Final.Controls.RedeemListControls.resources
+C:\DUY\CODING_SUB_FILES\DBMS\New folder (2)\Final (1)\Final\obj\Debug\Final.Forms.SaleUC.resources
+C:\DUY\CODING_SUB_FILES\DBMS\New folder (2)\Final (1)\Final\obj\Debug\Final.Controls.StudioListControls.resources
+C:\DUY\CODING_SUB_FILES\DBMS\New folder (2)\Final (1)\Final\obj\Debug\Final.Controls.TagListControls.resources
+C:\DUY\CODING_SUB_FILES\DBMS\New folder (2)\Final (1)\Final\obj\Debug\Final.Controls.UserInfo.resources
+C:\DUY\CODING_SUB_FILES\DBMS\New folder (2)\Final (1)\Final\obj\Debug\Final.Controls.UserListControls.resources
+C:\DUY\CODING_SUB_FILES\DBMS\New folder (2)\Final (1)\Final\obj\Debug\Final.Controls.UserProfileControl.resources
+C:\DUY\CODING_SUB_FILES\DBMS\New folder (2)\Final (1)\Final\obj\Debug\Final.Controls.User_select.resources
+C:\DUY\CODING_SUB_FILES\DBMS\New folder (2)\Final (1)\Final\obj\Debug\Final.Forms.Addfund.resources
+C:\DUY\CODING_SUB_FILES\DBMS\New folder (2)\Final (1)\Final\obj\Debug\Final.Forms.AdminForm.resources
+C:\DUY\CODING_SUB_FILES\DBMS\New folder (2)\Final (1)\Final\obj\Debug\Final.Controls.GameInfo.resources
+C:\DUY\CODING_SUB_FILES\DBMS\New folder (2)\Final (1)\Final\obj\Debug\Final.Forms.createaccFM.resources
+C:\DUY\CODING_SUB_FILES\DBMS\New folder (2)\Final (1)\Final\obj\Debug\Final.Forms.loginFM.resources
+C:\DUY\CODING_SUB_FILES\DBMS\New folder (2)\Final (1)\Final\obj\Debug\Final.Forms.UserForm.resources
+C:\DUY\CODING_SUB_FILES\DBMS\New folder (2)\Final (1)\Final\obj\Debug\Final.Properties.Resources.resources
+C:\DUY\CODING_SUB_FILES\DBMS\New folder (2)\Final (1)\Final\obj\Debug\Final.csproj.GenerateResource.cache
+C:\DUY\CODING_SUB_FILES\DBMS\New folder (2)\Final (1)\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\DUY\CODING_SUB_FILES\DBMS\New folder (2)\Final (1)\Final\obj\Debug\Final.exe
+C:\DUY\CODING_SUB_FILES\DBMS\New folder (2)\Final (1)\Final\obj\Debug\Final.pdb
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final Project - Authen Update\Final\bin\Debug\Final.exe.config
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final Project - Authen Update\Final\bin\Debug\Final.exe
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final Project - Authen Update\Final\bin\Debug\Final.pdb
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final Project - Authen Update\Final\obj\Debug\Final.csproj.AssemblyReference.cache
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final Project - Authen Update\Final\obj\Debug\Final.Controls.DiscountListControl.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final Project - Authen Update\Final\obj\Debug\Final.Controls.GameBuyControl.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final Project - Authen Update\Final\obj\Debug\Final.Controls.GameDetail_Library.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final Project - Authen Update\Final\obj\Debug\Final.Controls.GameListControls.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final Project - Authen Update\Final\obj\Debug\Final.Controls.GameSmallDetailControl.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final Project - Authen Update\Final\obj\Debug\Final.Controls.RedeemListControls.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final Project - Authen Update\Final\obj\Debug\Final.Forms.SaleUC.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final Project - Authen Update\Final\obj\Debug\Final.Controls.StudioListControls.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final Project - Authen Update\Final\obj\Debug\Final.Controls.TagListControls.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final Project - Authen Update\Final\obj\Debug\Final.Controls.UserInfo.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final Project - Authen Update\Final\obj\Debug\Final.Controls.UserListControls.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final Project - Authen Update\Final\obj\Debug\Final.Controls.UserProfileControl.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final Project - Authen Update\Final\obj\Debug\Final.Controls.User_select.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final Project - Authen Update\Final\obj\Debug\Final.Forms.Addfund.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final Project - Authen Update\Final\obj\Debug\Final.Forms.AdminForm.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final Project - Authen Update\Final\obj\Debug\Final.Controls.GameInfo.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final Project - Authen Update\Final\obj\Debug\Final.Forms.createaccFM.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final Project - Authen Update\Final\obj\Debug\Final.Forms.loginFM.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final Project - Authen Update\Final\obj\Debug\Final.Forms.UserForm.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final Project - Authen Update\Final\obj\Debug\Final.Properties.Resources.resources
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final Project - Authen Update\Final\obj\Debug\Final.csproj.GenerateResource.cache
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final Project - Authen Update\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final Project - Authen Update\Final\obj\Debug\Final.exe
+D:\01 ~ Tài liệu học tập\6-Hệ quản trị CSDL\STEM\Final Project - Authen Update\Final\obj\Debug\Final.pdb
+D:\Study\K20\K20-SS3\DBMS\Project\Nhóm 7 _ Đề tài cuối kỳ\Final\bin\Debug\Final.exe.config
+D:\Study\K20\K20-SS3\DBMS\Project\Nhóm 7 _ Đề tài cuối kỳ\Final\bin\Debug\Final.exe
+D:\Study\K20\K20-SS3\DBMS\Project\Nhóm 7 _ Đề tài cuối kỳ\Final\bin\Debug\Final.pdb
+D:\Study\K20\K20-SS3\DBMS\Project\Nhóm 7 _ Đề tài cuối kỳ\Final\obj\Debug\Final.csproj.AssemblyReference.cache
+D:\Study\K20\K20-SS3\DBMS\Project\Nhóm 7 _ Đề tài cuối kỳ\Final\obj\Debug\Final.csproj.SuggestedBindingRedirects.cache
+D:\Study\K20\K20-SS3\DBMS\Project\Nhóm 7 _ Đề tài cuối kỳ\Final\obj\Debug\Final.Controls.DiscountListControl.resources
+D:\Study\K20\K20-SS3\DBMS\Project\Nhóm 7 _ Đề tài cuối kỳ\Final\obj\Debug\Final.Controls.GameBuyControl.resources
+D:\Study\K20\K20-SS3\DBMS\Project\Nhóm 7 _ Đề tài cuối kỳ\Final\obj\Debug\Final.Controls.GameDetail_Library.resources
+D:\Study\K20\K20-SS3\DBMS\Project\Nhóm 7 _ Đề tài cuối kỳ\Final\obj\Debug\Final.Controls.GameListControls.resources
+D:\Study\K20\K20-SS3\DBMS\Project\Nhóm 7 _ Đề tài cuối kỳ\Final\obj\Debug\Final.Controls.GameSmallDetailControl.resources
+D:\Study\K20\K20-SS3\DBMS\Project\Nhóm 7 _ Đề tài cuối kỳ\Final\obj\Debug\Final.Controls.RedeemListControls.resources
+D:\Study\K20\K20-SS3\DBMS\Project\Nhóm 7 _ Đề tài cuối kỳ\Final\obj\Debug\Final.Forms.SaleUC.resources
+D:\Study\K20\K20-SS3\DBMS\Project\Nhóm 7 _ Đề tài cuối kỳ\Final\obj\Debug\Final.Controls.StudioListControls.resources
+D:\Study\K20\K20-SS3\DBMS\Project\Nhóm 7 _ Đề tài cuối kỳ\Final\obj\Debug\Final.Controls.TagListControls.resources
+D:\Study\K20\K20-SS3\DBMS\Project\Nhóm 7 _ Đề tài cuối kỳ\Final\obj\Debug\Final.Controls.UserInfo.resources
+D:\Study\K20\K20-SS3\DBMS\Project\Nhóm 7 _ Đề tài cuối kỳ\Final\obj\Debug\Final.Controls.UserListControls.resources
+D:\Study\K20\K20-SS3\DBMS\Project\Nhóm 7 _ Đề tài cuối kỳ\Final\obj\Debug\Final.Controls.UserProfileControl.resources
+D:\Study\K20\K20-SS3\DBMS\Project\Nhóm 7 _ Đề tài cuối kỳ\Final\obj\Debug\Final.Controls.User_select.resources
+D:\Study\K20\K20-SS3\DBMS\Project\Nhóm 7 _ Đề tài cuối kỳ\Final\obj\Debug\Final.Forms.Addfund.resources
+D:\Study\K20\K20-SS3\DBMS\Project\Nhóm 7 _ Đề tài cuối kỳ\Final\obj\Debug\Final.Forms.AdminForm.resources
+D:\Study\K20\K20-SS3\DBMS\Project\Nhóm 7 _ Đề tài cuối kỳ\Final\obj\Debug\Final.Controls.GameInfo.resources
+D:\Study\K20\K20-SS3\DBMS\Project\Nhóm 7 _ Đề tài cuối kỳ\Final\obj\Debug\Final.Forms.createaccFM.resources
+D:\Study\K20\K20-SS3\DBMS\Project\Nhóm 7 _ Đề tài cuối kỳ\Final\obj\Debug\Final.Forms.loginFM.resources
+D:\Study\K20\K20-SS3\DBMS\Project\Nhóm 7 _ Đề tài cuối kỳ\Final\obj\Debug\Final.Forms.UserForm.resources
+D:\Study\K20\K20-SS3\DBMS\Project\Nhóm 7 _ Đề tài cuối kỳ\Final\obj\Debug\Final.Properties.Resources.resources
+D:\Study\K20\K20-SS3\DBMS\Project\Nhóm 7 _ Đề tài cuối kỳ\Final\obj\Debug\Final.csproj.GenerateResource.cache
+D:\Study\K20\K20-SS3\DBMS\Project\Nhóm 7 _ Đề tài cuối kỳ\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+D:\Study\K20\K20-SS3\DBMS\Project\Nhóm 7 _ Đề tài cuối kỳ\Final\obj\Debug\Final.exe
+D:\Study\K20\K20-SS3\DBMS\Project\Nhóm 7 _ Đề tài cuối kỳ\Final\obj\Debug\Final.pdb
